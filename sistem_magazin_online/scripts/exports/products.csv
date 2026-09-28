@@ -1,0 +1,502 @@
+id,name,category,sku,price,stock,created_at
+1,Tastatura Nelson LLC,Tastatura,SKU-001,2660.00,31,2026-04-29 10:20:14
+2,Monitor Bradley-Gilbert,Monitor,SKU-002,9702.00,52,2026-04-29 10:20:14
+3,Cablu Edwards and Sons,Cablu,SKU-003,7428.00,19,2026-04-29 10:20:14
+4,"Mouse Clark, Rodriguez and Stephens",Mouse,SKU-004,4031.00,39,2026-04-29 10:20:14
+5,Tastatura Craig-Mack,Tastatura,SKU-005,5351.00,67,2026-04-29 10:20:14
+6,Tastatura Sanchez-Jackson,Tastatura,SKU-006,9722.00,30,2026-04-29 10:20:14
+7,Mouse Williams and Sons,Mouse,SKU-007,7070.00,23,2026-04-29 10:20:14
+8,Laptop Anderson-Schroeder,Laptop,SKU-008,4943.00,62,2026-04-29 10:20:14
+9,"Laptop Cantu, Fleming and Miller",Laptop,SKU-009,4850.00,16,2026-04-29 10:20:14
+10,Mouse Nelson-Meyer,Mouse,SKU-010,7040.00,64,2026-04-29 10:20:14
+11,Mouse Pace Inc,Mouse,SKU-011,3784.00,65,2026-04-29 10:20:14
+12,"Laptop Curtis, Sims and Lowe",Laptop,SKU-012,8900.00,87,2026-04-29 10:20:14
+13,Tastatura Kerr-Nielsen,Tastatura,SKU-013,7205.00,73,2026-04-29 10:20:14
+14,Monitor Davis Inc,Monitor,SKU-014,5704.00,92,2026-04-29 10:20:14
+15,Mouse Wang-Moss,Mouse,SKU-015,8484.00,44,2026-04-29 10:20:14
+16,"Cablu White, Pratt and Chavez",Cablu,SKU-016,1245.00,98,2026-04-29 10:20:14
+17,"Laptop Hood, Stephens and Church",Laptop,SKU-017,7057.00,12,2026-04-29 10:20:14
+18,Monitor Ramirez-Robinson,Monitor,SKU-018,8819.00,26,2026-04-29 10:20:14
+19,"Cablu Mahoney, Thomas and Mejia",Cablu,SKU-019,1376.00,5,2026-04-29 10:20:14
+20,Cablu Boyd Inc,Cablu,SKU-020,735.00,91,2026-04-29 10:20:14
+21,Monitor Blankenship Group,Monitor,SKU-021,5090.00,21,2026-04-29 10:20:14
+22,Laptop Dominguez-Howard,Laptop,SKU-022,678.00,19,2026-04-29 10:20:15
+23,"Monitor Jones, Flores and Perkins",Monitor,SKU-023,4575.00,81,2026-04-29 10:20:15
+24,"Cablu King, Mcguire and Kennedy",Cablu,SKU-024,4811.00,80,2026-04-29 10:20:15
+25,"Tastatura Keith, Hill and Scott",Tastatura,SKU-025,4428.00,52,2026-04-29 10:20:15
+26,Mouse Escobar and Sons,Mouse,SKU-026,2564.00,0,2026-04-29 10:20:15
+27,Laptop Jenkins-Garcia,Laptop,SKU-027,3794.00,7,2026-04-29 10:20:15
+28,Cablu Carter-Smith,Cablu,SKU-028,2365.00,8,2026-04-29 10:20:15
+29,Monitor Brown-Taylor,Monitor,SKU-029,9949.00,25,2026-04-29 10:20:15
+30,Tastatura Hill-Holmes,Tastatura,SKU-030,1341.00,67,2026-04-29 10:20:15
+31,Tastatura Greer Group,Tastatura,SKU-031,1066.00,53,2026-04-29 10:20:15
+32,Monitor Martinez Group,Monitor,SKU-032,2323.00,26,2026-04-29 10:20:15
+33,Monitor Hurley PLC,Monitor,SKU-033,9358.00,18,2026-04-29 10:20:15
+34,"Monitor Gamble, White and Bush",Monitor,SKU-034,2783.00,84,2026-04-29 10:20:15
+35,Tastatura Bernard LLC,Tastatura,SKU-035,1150.00,58,2026-04-29 10:20:15
+36,Mouse Arellano Inc,Mouse,SKU-036,9700.00,76,2026-04-29 10:20:15
+37,Laptop Herrera-Bennett,Laptop,SKU-037,5574.00,22,2026-04-29 10:20:15
+38,Monitor York Group,Monitor,SKU-038,6483.00,48,2026-04-29 10:20:15
+39,"Mouse Smith, Tucker and Cisneros",Mouse,SKU-039,792.00,75,2026-04-29 10:20:15
+40,Laptop Taylor-King,Laptop,SKU-040,8768.00,82,2026-04-29 10:20:15
+41,"Monitor Foster, Kim and Waters",Monitor,SKU-041,1656.00,55,2026-04-29 10:20:15
+42,Laptop Martinez-Little,Laptop,SKU-042,553.00,43,2026-04-29 10:20:15
+43,Cablu Holt PLC,Cablu,SKU-043,3697.00,61,2026-04-29 10:20:15
+44,Cablu Nunez Ltd,Cablu,SKU-044,1321.00,89,2026-04-29 10:20:15
+45,Mouse Mitchell-Lopez,Mouse,SKU-045,6781.00,25,2026-04-29 10:20:15
+46,Monitor Perry Inc,Monitor,SKU-046,7381.00,67,2026-04-29 10:20:15
+47,Cablu Fritz Ltd,Cablu,SKU-047,8280.00,19,2026-04-29 10:20:15
+48,Monitor Cox-Rios,Monitor,SKU-048,8672.00,97,2026-04-29 10:20:15
+49,Cablu Castillo-Bailey,Cablu,SKU-049,7972.00,15,2026-04-29 10:20:15
+50,Monitor Taylor LLC,Monitor,SKU-050,7993.00,7,2026-04-29 10:20:15
+51,Monitor Bell LLC,Monitor,SKU-051,5330.00,31,2026-04-29 10:20:15
+52,Laptop Pierce-Collins,Laptop,SKU-052,4019.00,73,2026-04-29 10:20:15
+53,"Monitor Boyer, Morris and Walker",Monitor,SKU-053,3434.00,68,2026-04-29 10:20:15
+54,Monitor Douglas Ltd,Monitor,SKU-054,4791.00,42,2026-04-29 10:20:15
+55,Laptop Morales-Pacheco,Laptop,SKU-055,2682.00,30,2026-04-29 10:20:15
+56,Laptop Johnston LLC,Laptop,SKU-056,8295.00,28,2026-04-29 10:20:15
+57,Monitor Nelson-Ferguson,Monitor,SKU-057,5291.00,31,2026-04-29 10:20:15
+58,"Tastatura Kelly, Griffith and Elliott",Tastatura,SKU-058,9378.00,53,2026-04-29 10:20:15
+59,"Cablu Barr, Harper and Bush",Cablu,SKU-059,5989.00,69,2026-04-29 10:20:15
+60,Tastatura Hernandez-Cox,Tastatura,SKU-060,1724.00,23,2026-04-29 10:20:15
+61,Cablu Webster-Petty,Cablu,SKU-061,6569.00,95,2026-04-29 10:20:15
+62,"Cablu Long, Yang and Camacho",Cablu,SKU-062,9984.00,46,2026-04-29 10:20:15
+63,"Mouse Warren, Peterson and Schmidt",Mouse,SKU-063,8646.00,89,2026-04-29 10:20:15
+64,Tastatura Thomas-Chapman,Tastatura,SKU-064,8210.00,83,2026-04-29 10:20:15
+65,"Mouse Price, Holloway and Johnson",Mouse,SKU-065,3644.00,86,2026-04-29 10:20:15
+66,Monitor Ayers and Sons,Monitor,SKU-066,3852.00,12,2026-04-29 10:20:15
+67,"Mouse Peterson, Rodriguez and Butler",Mouse,SKU-067,5244.00,4,2026-04-29 10:20:15
+68,Monitor Solomon-Vega,Monitor,SKU-068,9662.00,60,2026-04-29 10:20:15
+69,"Laptop Bernard, Washington and Alexander",Laptop,SKU-069,895.00,2,2026-04-29 10:20:15
+70,"Tastatura Carpenter, Knight and Roberts",Tastatura,SKU-070,5379.00,40,2026-04-29 10:20:15
+71,"Laptop Rowe, Black and Carroll",Laptop,SKU-071,1914.00,59,2026-04-29 10:20:15
+72,"Mouse White, Bell and Ramirez",Mouse,SKU-072,5626.00,94,2026-04-29 10:20:15
+73,Mouse Barnes-Ramirez,Mouse,SKU-073,6193.00,78,2026-04-29 10:20:15
+74,Mouse Griffin PLC,Mouse,SKU-074,9354.00,62,2026-04-29 10:20:15
+75,"Laptop Tran, Griffin and Patton",Laptop,SKU-075,2263.00,30,2026-04-29 10:20:15
+76,"Mouse Ward, Haynes and Kerr",Mouse,SKU-076,6674.00,71,2026-04-29 10:20:15
+77,"Monitor Velazquez, Sparks and Espinoza",Monitor,SKU-077,6966.00,15,2026-04-29 10:20:15
+78,Tastatura Beasley Ltd,Tastatura,SKU-078,7693.00,46,2026-04-29 10:20:15
+79,Monitor White Ltd,Monitor,SKU-079,3808.00,40,2026-04-29 10:20:15
+80,Mouse Wright-Cohen,Mouse,SKU-080,2521.00,91,2026-04-29 10:20:15
+81,"Cablu Alvarez, Rollins and Downs",Cablu,SKU-081,8784.00,14,2026-04-29 10:20:15
+82,Laptop Kidd PLC,Laptop,SKU-082,1703.00,96,2026-04-29 10:20:15
+83,Laptop Reynolds Ltd,Laptop,SKU-083,7523.00,43,2026-04-29 10:20:15
+84,Monitor Shannon-Davis,Monitor,SKU-084,4385.00,95,2026-04-29 10:20:15
+85,"Tastatura Evans, Simmons and Smith",Tastatura,SKU-085,3414.00,30,2026-04-29 10:20:15
+86,Cablu Lawrence-Lopez,Cablu,SKU-086,6255.00,13,2026-04-29 10:20:15
+87,Laptop Summers-Newton,Laptop,SKU-087,4976.00,29,2026-04-29 10:20:15
+88,Tastatura Williams-Diaz,Tastatura,SKU-088,2092.00,20,2026-04-29 10:20:15
+89,Laptop Miller PLC,Laptop,SKU-089,6977.00,11,2026-04-29 10:20:15
+90,"Mouse Jones, Bush and Herring",Mouse,SKU-090,7595.00,64,2026-04-29 10:20:15
+91,"Tastatura Armstrong, Carter and Long",Tastatura,SKU-091,1726.00,67,2026-04-29 10:20:15
+92,"Tastatura Johnson, Miller and Haney",Tastatura,SKU-092,419.00,2,2026-04-29 10:20:15
+93,"Cablu Allen, Park and Moore",Cablu,SKU-093,7099.00,26,2026-04-29 10:20:15
+94,"Tastatura Smith, Robertson and Hernandez",Tastatura,SKU-094,6853.00,45,2026-04-29 10:20:15
+95,Tastatura Hunter Group,Tastatura,SKU-095,8661.00,82,2026-04-29 10:20:15
+96,Mouse Brown-Cooley,Mouse,SKU-096,2089.00,61,2026-04-29 10:20:15
+97,Cablu Landry-Oneal,Cablu,SKU-097,3526.00,100,2026-04-29 10:20:15
+98,"Cablu Beck, Summers and Morgan",Cablu,SKU-098,9943.00,16,2026-04-29 10:20:15
+99,Monitor Becker-Mendez,Monitor,SKU-099,5547.00,13,2026-04-29 10:20:15
+100,"Monitor Johnson, Johnson and Farrell",Monitor,SKU-100,7976.00,8,2026-04-29 10:20:15
+101,Laptop Brock Inc,Laptop,SKU-101,3102.00,32,2026-04-29 10:20:15
+102,Mouse Jones Group,Mouse,SKU-102,3186.00,33,2026-04-29 10:20:15
+103,Laptop Henry Ltd,Laptop,SKU-103,9313.00,19,2026-04-29 10:20:15
+104,Cablu Norman-Farmer,Cablu,SKU-104,6319.00,43,2026-04-29 10:20:15
+105,"Mouse Taylor, Matthews and Taylor",Mouse,SKU-105,7844.00,63,2026-04-29 10:20:15
+106,"Mouse Boone, Reeves and Smith",Mouse,SKU-106,7786.00,77,2026-04-29 10:20:15
+107,Tastatura Flores PLC,Tastatura,SKU-107,960.00,99,2026-04-29 10:20:15
+108,Mouse Lewis Ltd,Mouse,SKU-108,7742.00,68,2026-04-29 10:20:15
+109,Mouse Ramos-Jacobs,Mouse,SKU-109,6425.00,32,2026-04-29 10:20:15
+110,Mouse Smith PLC,Mouse,SKU-110,8032.00,49,2026-04-29 10:20:15
+111,Mouse Parks Ltd,Mouse,SKU-111,8189.00,30,2026-04-29 10:20:15
+112,"Cablu Griffin, Moore and Zuniga",Cablu,SKU-112,9940.00,31,2026-04-29 10:20:15
+113,"Tastatura Warner, Johnston and Kim",Tastatura,SKU-113,418.00,52,2026-04-29 10:20:15
+114,Laptop Sanchez-Gomez,Laptop,SKU-114,8388.00,50,2026-04-29 10:20:15
+115,Tastatura Ward-Foster,Tastatura,SKU-115,2264.00,79,2026-04-29 10:20:15
+116,"Mouse Ball, Ashley and Zimmerman",Mouse,SKU-116,7818.00,13,2026-04-29 10:20:15
+117,Laptop White LLC,Laptop,SKU-117,6353.00,55,2026-04-29 10:20:15
+118,Mouse Rogers-Hernandez,Mouse,SKU-118,1394.00,98,2026-04-29 10:20:15
+119,"Laptop Mullins, Moore and Hernandez",Laptop,SKU-119,3440.00,77,2026-04-29 10:20:15
+120,Mouse Li-Beard,Mouse,SKU-120,8690.00,21,2026-04-29 10:20:15
+121,"Laptop Cunningham, Lynch and Bentley",Laptop,SKU-121,8025.00,72,2026-04-29 10:20:15
+122,Mouse Fields-King,Mouse,SKU-122,1767.00,42,2026-04-29 10:20:15
+123,"Mouse Todd, Richardson and Whitney",Mouse,SKU-123,342.00,91,2026-04-29 10:20:15
+124,Mouse Turner LLC,Mouse,SKU-124,5201.00,2,2026-04-29 10:20:15
+125,Mouse Williams-Wise,Mouse,SKU-125,6567.00,14,2026-04-29 10:20:15
+126,"Tastatura Ray, Ramirez and Boyd",Tastatura,SKU-126,9742.00,46,2026-04-29 10:20:15
+127,Cablu Frazier Ltd,Cablu,SKU-127,3685.00,17,2026-04-29 10:20:15
+128,Monitor Myers-Roberson,Monitor,SKU-128,9897.00,65,2026-04-29 10:20:15
+129,Cablu Pitts and Sons,Cablu,SKU-129,7320.00,51,2026-04-29 10:20:15
+130,Cablu Hoffman PLC,Cablu,SKU-130,6067.00,51,2026-04-29 10:20:15
+131,"Laptop Mckinney, Burch and Diaz",Laptop,SKU-131,2219.00,52,2026-04-29 10:20:15
+132,Laptop Delgado LLC,Laptop,SKU-132,5494.00,56,2026-04-29 10:20:15
+133,Cablu Crawford Ltd,Cablu,SKU-133,8495.00,90,2026-04-29 10:20:15
+134,Monitor Johnson Inc,Monitor,SKU-134,7354.00,76,2026-04-29 10:20:15
+135,"Monitor Stewart, Howard and Bell",Monitor,SKU-135,6289.00,43,2026-04-29 10:20:15
+136,Tastatura Benjamin LLC,Tastatura,SKU-136,1605.00,82,2026-04-29 10:20:15
+137,"Monitor Butler, Sampson and Duncan",Monitor,SKU-137,5740.00,83,2026-04-29 10:20:15
+138,Tastatura Perez LLC,Tastatura,SKU-138,8408.00,44,2026-04-29 10:20:15
+139,Cablu Newman LLC,Cablu,SKU-139,7039.00,69,2026-04-29 10:20:15
+140,Mouse Parker-Holt,Mouse,SKU-140,9296.00,63,2026-04-29 10:20:15
+141,Tastatura Lewis PLC,Tastatura,SKU-141,2822.00,91,2026-04-29 10:20:15
+142,Laptop Long Group,Laptop,SKU-142,6968.00,65,2026-04-29 10:20:15
+143,Mouse Dunn and Sons,Mouse,SKU-143,1480.00,81,2026-04-29 10:20:15
+144,Cablu May-Hill,Cablu,SKU-144,1689.00,76,2026-04-29 10:20:15
+145,Mouse Tate Ltd,Mouse,SKU-145,2567.00,60,2026-04-29 10:20:15
+146,Laptop Gonzalez and Sons,Laptop,SKU-146,6489.00,24,2026-04-29 10:20:15
+147,"Tastatura Keller, Navarro and Pittman",Tastatura,SKU-147,1065.00,94,2026-04-29 10:20:15
+148,"Tastatura Diaz, Smith and Wong",Tastatura,SKU-148,6022.00,30,2026-04-29 10:20:15
+149,Monitor Romero-Willis,Monitor,SKU-149,3986.00,49,2026-04-29 10:20:15
+150,Laptop Kent Ltd,Laptop,SKU-150,1504.00,88,2026-04-29 10:20:15
+151,"Laptop Thomas, Baker and Matthews",Laptop,SKU-151,5172.00,89,2026-04-29 10:20:15
+152,Mouse Beck Ltd,Mouse,SKU-152,9175.00,46,2026-04-29 10:20:15
+153,Tastatura Mullins-Smith,Tastatura,SKU-153,1443.00,92,2026-04-29 10:20:15
+154,Mouse Gonzalez LLC,Mouse,SKU-154,3730.00,33,2026-04-29 10:20:15
+155,Cablu Sullivan-Black,Cablu,SKU-155,2333.00,33,2026-04-29 10:20:15
+156,Monitor Miller Inc,Monitor,SKU-156,3789.00,44,2026-04-29 10:20:15
+157,"Tastatura Wright, Sheppard and Sullivan",Tastatura,SKU-157,9226.00,47,2026-04-29 10:20:15
+158,Tastatura Spears-Turner,Tastatura,SKU-158,8833.00,60,2026-04-29 10:20:15
+159,Mouse Snyder-Kelly,Mouse,SKU-159,2304.00,61,2026-04-29 10:20:15
+160,Tastatura Brewer Inc,Tastatura,SKU-160,2533.00,44,2026-04-29 10:20:15
+161,"Cablu Riddle, Meyer and Campbell",Cablu,SKU-161,4812.00,41,2026-04-29 10:20:15
+162,Monitor Ryan-Lopez,Monitor,SKU-162,7436.00,56,2026-04-29 10:20:15
+163,"Mouse Mercer, Woods and Burke",Mouse,SKU-163,2417.00,76,2026-04-29 10:20:15
+164,Mouse Sloan Group,Mouse,SKU-164,9501.00,53,2026-04-29 10:20:15
+165,Tastatura Crawford and Sons,Tastatura,SKU-165,452.00,38,2026-04-29 10:20:15
+166,"Tastatura Miller, Foster and Smith",Tastatura,SKU-166,3013.00,93,2026-04-29 10:20:15
+167,Tastatura Klein-Hickman,Tastatura,SKU-167,9315.00,27,2026-04-29 10:20:15
+168,"Mouse Rodriguez, Larsen and Duran",Mouse,SKU-168,3866.00,30,2026-04-29 10:20:15
+169,"Cablu Hayes, Nielsen and Galloway",Cablu,SKU-169,7533.00,75,2026-04-29 10:20:15
+170,Cablu Lopez-Torres,Cablu,SKU-170,1575.00,51,2026-04-29 10:20:15
+171,Tastatura Jenkins PLC,Tastatura,SKU-171,5063.00,67,2026-04-29 10:20:15
+172,"Cablu Williams, Forbes and Case",Cablu,SKU-172,916.00,69,2026-04-29 10:20:15
+173,"Laptop Davis, Ramirez and Houston",Laptop,SKU-173,1066.00,6,2026-04-29 10:20:15
+174,Tastatura Nelson-Jones,Tastatura,SKU-174,5474.00,27,2026-04-29 10:20:15
+175,Monitor Carr Group,Monitor,SKU-175,5686.00,26,2026-04-29 10:20:15
+176,"Laptop Curry, Burke and Atkinson",Laptop,SKU-176,2806.00,62,2026-04-29 10:20:15
+177,Mouse Woodard-Dillon,Mouse,SKU-177,9602.00,3,2026-04-29 10:20:15
+178,Tastatura Parker-Rojas,Tastatura,SKU-178,9020.00,71,2026-04-29 10:20:15
+179,"Tastatura Brown, Mason and Ryan",Tastatura,SKU-179,3685.00,86,2026-04-29 10:20:15
+180,"Mouse Cooper, Carlson and Edwards",Mouse,SKU-180,1384.00,55,2026-04-29 10:20:15
+181,Mouse Smith and Sons,Mouse,SKU-181,6210.00,33,2026-04-29 10:20:15
+182,Monitor Dudley Group,Monitor,SKU-182,9044.00,46,2026-04-29 10:20:15
+183,Monitor Ramsey-Hamilton,Monitor,SKU-183,1148.00,61,2026-04-29 10:20:15
+184,"Monitor Webster, Johns and Smith",Monitor,SKU-184,8186.00,69,2026-04-29 10:20:15
+185,Mouse Day-Quinn,Mouse,SKU-185,826.00,25,2026-04-29 10:20:15
+186,Tastatura Gay LLC,Tastatura,SKU-186,7419.00,38,2026-04-29 10:20:15
+187,"Cablu Reeves, Bradley and Mcdaniel",Cablu,SKU-187,4467.00,46,2026-04-29 10:20:15
+188,Laptop Williams Ltd,Laptop,SKU-188,9728.00,47,2026-04-29 10:20:15
+189,Cablu Kennedy-Li,Cablu,SKU-189,6001.00,62,2026-04-29 10:20:15
+190,"Mouse Fuller, Smith and Wilson",Mouse,SKU-190,4605.00,33,2026-04-29 10:20:15
+191,Laptop Campbell Group,Laptop,SKU-191,9676.00,46,2026-04-29 10:20:15
+192,"Laptop Moore, Knight and Mcconnell",Laptop,SKU-192,4031.00,34,2026-04-29 10:20:15
+193,"Tastatura Berry, Curtis and Martinez",Tastatura,SKU-193,7297.00,50,2026-04-29 10:20:15
+194,Tastatura Henson-Glass,Tastatura,SKU-194,1279.00,49,2026-04-29 10:20:15
+195,Laptop Solis-Garcia,Laptop,SKU-195,5160.00,71,2026-04-29 10:20:15
+196,Laptop Williams Group,Laptop,SKU-196,7128.00,18,2026-04-29 10:20:15
+197,"Mouse Brown, Green and Nelson",Mouse,SKU-197,5485.00,62,2026-04-29 10:20:15
+198,Cablu Fernandez Group,Cablu,SKU-198,8253.00,61,2026-04-29 10:20:15
+199,Cablu Norman LLC,Cablu,SKU-199,9397.00,40,2026-04-29 10:20:15
+200,"Monitor Mack, Crosby and Rodriguez",Monitor,SKU-200,3253.00,57,2026-04-29 10:20:15
+201,Mouse Clarke Ltd,Mouse,SKU-201,730.00,97,2026-04-29 10:20:15
+202,Mouse Jones Ltd,Mouse,SKU-202,432.00,18,2026-04-29 10:20:15
+203,Laptop Larsen-Dillon,Laptop,SKU-203,4646.00,85,2026-04-29 10:20:15
+204,Tastatura Massey PLC,Tastatura,SKU-204,5581.00,51,2026-04-29 10:20:15
+205,Cablu Rogers-Foster,Cablu,SKU-205,9798.00,77,2026-04-29 10:20:15
+206,"Cablu Walter, Medina and Hamilton",Cablu,SKU-206,6385.00,26,2026-04-29 10:20:15
+207,"Tastatura Cooper, Warren and Gregory",Tastatura,SKU-207,3826.00,47,2026-04-29 10:20:15
+208,"Mouse Smith, Johnson and Monroe",Mouse,SKU-208,6447.00,81,2026-04-29 10:20:15
+209,Mouse Campos-Hernandez,Mouse,SKU-209,3466.00,40,2026-04-29 10:20:15
+210,Monitor Glover PLC,Monitor,SKU-210,1672.00,57,2026-04-29 10:20:15
+211,Monitor Hanson-Evans,Monitor,SKU-211,519.00,3,2026-04-29 10:20:15
+212,Laptop Perez and Sons,Laptop,SKU-212,8343.00,94,2026-04-29 10:20:15
+213,"Cablu Barnett, Sweeney and Mendoza",Cablu,SKU-213,6298.00,43,2026-04-29 10:20:15
+214,Tastatura Roberts Ltd,Tastatura,SKU-214,631.00,93,2026-04-29 10:20:15
+215,"Laptop Gordon, Davis and Campbell",Laptop,SKU-215,6704.00,89,2026-04-29 10:20:15
+216,Laptop Reed Ltd,Laptop,SKU-216,9368.00,71,2026-04-29 10:20:15
+217,"Cablu Garcia, Acevedo and Foster",Cablu,SKU-217,9519.00,96,2026-04-29 10:20:15
+218,"Monitor Collins, Collins and Barnes",Monitor,SKU-218,4981.00,76,2026-04-29 10:20:15
+219,"Cablu Walton, Harper and Francis",Cablu,SKU-219,1591.00,57,2026-04-29 10:20:15
+220,Tastatura Avery-Smith,Tastatura,SKU-220,4491.00,15,2026-04-29 10:20:15
+221,Laptop Sims-Osborne,Laptop,SKU-221,4919.00,6,2026-04-29 10:20:15
+222,"Mouse Burns, Blankenship and Oconnor",Mouse,SKU-222,3233.00,96,2026-04-29 10:20:15
+223,"Monitor Howell, Gray and Drake",Monitor,SKU-223,2044.00,18,2026-04-29 10:20:15
+224,Cablu Lozano-Lewis,Cablu,SKU-224,8453.00,47,2026-04-29 10:20:15
+225,Monitor Harris-Lambert,Monitor,SKU-225,4047.00,48,2026-04-29 10:20:15
+226,Laptop Sanchez LLC,Laptop,SKU-226,1985.00,26,2026-04-29 10:20:15
+227,Mouse Mcneil-Rodriguez,Mouse,SKU-227,5260.00,93,2026-04-29 10:20:15
+228,Laptop Perry Ltd,Laptop,SKU-228,3076.00,96,2026-04-29 10:20:15
+229,Monitor Meyers Group,Monitor,SKU-229,1877.00,97,2026-04-29 10:20:15
+230,"Cablu Pierce, Nelson and Schultz",Cablu,SKU-230,2383.00,88,2026-04-29 10:20:15
+231,"Laptop Wiley, Aguirre and Franco",Laptop,SKU-231,6324.00,8,2026-04-29 10:20:15
+232,Tastatura Owen-Schmitt,Tastatura,SKU-232,7841.00,54,2026-04-29 10:20:15
+233,"Mouse Small, Mendez and Parsons",Mouse,SKU-233,6285.00,54,2026-04-29 10:20:15
+234,Laptop Wilson PLC,Laptop,SKU-234,6329.00,44,2026-04-29 10:20:16
+235,Monitor Estrada-Aguilar,Monitor,SKU-235,3143.00,50,2026-04-29 10:20:16
+236,Mouse Jones Ltd,Mouse,SKU-236,9967.00,15,2026-04-29 10:20:16
+237,Monitor Smith Group,Monitor,SKU-237,4084.00,48,2026-04-29 10:20:16
+238,"Mouse Phillips, Johnson and Gutierrez",Mouse,SKU-238,6242.00,51,2026-04-29 10:20:16
+239,"Cablu Lee, Rogers and Olson",Cablu,SKU-239,342.00,39,2026-04-29 10:20:16
+240,"Tastatura Dawson, Young and Moore",Tastatura,SKU-240,4966.00,57,2026-04-29 10:20:16
+241,Cablu Jones Ltd,Cablu,SKU-241,7521.00,36,2026-04-29 10:20:16
+242,Mouse Fuentes-Mckinney,Mouse,SKU-242,6956.00,52,2026-04-29 10:20:16
+243,Laptop Todd-Ritter,Laptop,SKU-243,5425.00,100,2026-04-29 10:20:16
+244,Mouse Herrera Group,Mouse,SKU-244,9755.00,46,2026-04-29 10:20:16
+245,Cablu Smith-Craig,Cablu,SKU-245,9604.00,41,2026-04-29 10:20:16
+246,Tastatura Watts PLC,Tastatura,SKU-246,4939.00,89,2026-04-29 10:20:16
+247,"Laptop Rogers, Hernandez and Turner",Laptop,SKU-247,7269.00,67,2026-04-29 10:20:16
+248,"Cablu Shaw, Zavala and Werner",Cablu,SKU-248,2918.00,15,2026-04-29 10:20:16
+249,Cablu Sutton-Stanley,Cablu,SKU-249,1776.00,5,2026-04-29 10:20:16
+250,Laptop Williams LLC,Laptop,SKU-250,3379.00,30,2026-04-29 10:20:16
+251,Cablu Hanson Ltd,Cablu,SKU-251,5384.00,78,2026-04-29 10:20:16
+252,"Cablu Simon, Brown and Strickland",Cablu,SKU-252,4989.00,70,2026-04-29 10:20:16
+253,"Cablu Hill, Graham and Stevens",Cablu,SKU-253,4420.00,8,2026-04-29 10:20:16
+254,Tastatura Nichols Ltd,Tastatura,SKU-254,3903.00,55,2026-04-29 10:20:16
+255,"Cablu Castillo, Porter and Davis",Cablu,SKU-255,6651.00,51,2026-04-29 10:20:16
+256,Laptop Le LLC,Laptop,SKU-256,539.00,39,2026-04-29 10:20:16
+257,Tastatura Sullivan LLC,Tastatura,SKU-257,9467.00,36,2026-04-29 10:20:16
+258,"Laptop Porter, Anderson and Sharp",Laptop,SKU-258,1318.00,70,2026-04-29 10:20:16
+259,Laptop Glass-Richardson,Laptop,SKU-259,4850.00,63,2026-04-29 10:20:16
+260,"Laptop Murphy, Myers and Fuller",Laptop,SKU-260,1966.00,40,2026-04-29 10:20:16
+261,"Mouse Watson, Cox and Taylor",Mouse,SKU-261,7690.00,34,2026-04-29 10:20:16
+262,Tastatura Garcia-Davis,Tastatura,SKU-262,7023.00,74,2026-04-29 10:20:16
+263,Mouse Ingram-Keller,Mouse,SKU-263,8718.00,82,2026-04-29 10:20:16
+264,Cablu Kline Inc,Cablu,SKU-264,9481.00,21,2026-04-29 10:20:16
+265,Cablu Ponce LLC,Cablu,SKU-265,2859.00,24,2026-04-29 10:20:16
+266,Cablu Cortez PLC,Cablu,SKU-266,5426.00,48,2026-04-29 10:20:16
+267,Cablu Hartman LLC,Cablu,SKU-267,9994.00,73,2026-04-29 10:20:16
+268,Monitor Rivera Group,Monitor,SKU-268,1531.00,79,2026-04-29 10:20:16
+269,"Monitor Mcclain, Wong and Cervantes",Monitor,SKU-269,333.00,66,2026-04-29 10:20:16
+270,Tastatura George PLC,Tastatura,SKU-270,9353.00,38,2026-04-29 10:20:16
+271,"Cablu Jones, Dixon and Gibbs",Cablu,SKU-271,3981.00,15,2026-04-29 10:20:16
+272,Laptop Lewis Ltd,Laptop,SKU-272,8769.00,12,2026-04-29 10:20:16
+273,"Tastatura Bennett, Aguirre and Martinez",Tastatura,SKU-273,724.00,71,2026-04-29 10:20:16
+274,Monitor Carrillo LLC,Monitor,SKU-274,3670.00,4,2026-04-29 10:20:16
+275,Monitor Nguyen PLC,Monitor,SKU-275,9616.00,84,2026-04-29 10:20:16
+276,Mouse Mcdonald-Hill,Mouse,SKU-276,2770.00,4,2026-04-29 10:20:16
+277,Mouse Gordon Ltd,Mouse,SKU-277,607.00,85,2026-04-29 10:20:16
+278,Tastatura Shepherd-Richardson,Tastatura,SKU-278,8669.00,3,2026-04-29 10:20:16
+279,Tastatura Ryan-Brown,Tastatura,SKU-279,2136.00,14,2026-04-29 10:20:16
+280,Mouse Haynes PLC,Mouse,SKU-280,540.00,92,2026-04-29 10:20:16
+281,Mouse Griffith LLC,Mouse,SKU-281,7113.00,77,2026-04-29 10:20:16
+282,"Tastatura Brooks, Thomas and Clark",Tastatura,SKU-282,577.00,33,2026-04-29 10:20:16
+283,Laptop Thornton-Brown,Laptop,SKU-283,5864.00,9,2026-04-29 10:20:16
+284,"Monitor Jones, Parks and Reed",Monitor,SKU-284,8469.00,78,2026-04-29 10:20:16
+285,Mouse Phillips Inc,Mouse,SKU-285,511.00,28,2026-04-29 10:20:16
+286,Mouse Garcia LLC,Mouse,SKU-286,5204.00,22,2026-04-29 10:20:16
+287,Monitor Rios-Jones,Monitor,SKU-287,5091.00,10,2026-04-29 10:20:16
+288,"Mouse Murray, Oconnor and Hobbs",Mouse,SKU-288,3677.00,59,2026-04-29 10:20:16
+289,Laptop Rogers-Best,Laptop,SKU-289,686.00,60,2026-04-29 10:20:16
+290,Cablu Mata-Anderson,Cablu,SKU-290,5666.00,55,2026-04-29 10:20:16
+291,"Mouse Thompson, Villegas and Henry",Mouse,SKU-291,4824.00,93,2026-04-29 10:20:16
+292,Cablu Logan PLC,Cablu,SKU-292,8671.00,98,2026-04-29 10:20:16
+293,"Monitor Daniels, Smith and Jefferson",Monitor,SKU-293,4037.00,35,2026-04-29 10:20:16
+294,Laptop Dixon PLC,Laptop,SKU-294,7442.00,98,2026-04-29 10:20:16
+295,"Tastatura Walker, Henry and Browning",Tastatura,SKU-295,8073.00,69,2026-04-29 10:20:16
+296,Mouse Gordon LLC,Mouse,SKU-296,5732.00,10,2026-04-29 10:20:16
+297,Tastatura Branch Ltd,Tastatura,SKU-297,9820.00,1,2026-04-29 10:20:16
+298,Mouse Anderson Group,Mouse,SKU-298,734.00,9,2026-04-29 10:20:16
+299,Cablu Phillips Inc,Cablu,SKU-299,2316.00,68,2026-04-29 10:20:16
+300,Mouse Levy-Smith,Mouse,SKU-300,683.00,76,2026-04-29 10:20:16
+301,Mouse Wade-Hobbs,Mouse,SKU-301,7941.00,49,2026-04-29 10:20:16
+302,"Monitor Shelton, Robinson and Ritter",Monitor,SKU-302,2388.00,8,2026-04-29 10:20:16
+303,Monitor Robbins and Sons,Monitor,SKU-303,3097.00,6,2026-04-29 10:20:16
+304,"Mouse Phillips, Avila and Byrd",Mouse,SKU-304,1421.00,72,2026-04-29 10:20:16
+305,Tastatura Hansen-Cervantes,Tastatura,SKU-305,8769.00,79,2026-04-29 10:20:16
+306,"Laptop Kent, Mills and Johnston",Laptop,SKU-306,3077.00,100,2026-04-29 10:20:16
+307,Mouse Garcia and Sons,Mouse,SKU-307,6099.00,43,2026-04-29 10:20:16
+308,Monitor Todd-Alvarado,Monitor,SKU-308,543.00,13,2026-04-29 10:20:16
+309,"Laptop Smith, Johnson and Hammond",Laptop,SKU-309,7218.00,52,2026-04-29 10:20:16
+310,Laptop Wilson and Sons,Laptop,SKU-310,7206.00,80,2026-04-29 10:20:16
+311,"Tastatura Williams, Castillo and Pearson",Tastatura,SKU-311,1701.00,38,2026-04-29 10:20:16
+312,"Tastatura Gates, Juarez and Owens",Tastatura,SKU-312,3917.00,57,2026-04-29 10:20:16
+313,Cablu Martin PLC,Cablu,SKU-313,9547.00,45,2026-04-29 10:20:16
+314,Monitor Zuniga-Kidd,Monitor,SKU-314,6856.00,97,2026-04-29 10:20:16
+315,"Mouse Rodriguez, Lee and Anderson",Mouse,SKU-315,2312.00,69,2026-04-29 10:20:16
+316,"Cablu Davis, Villa and Lopez",Cablu,SKU-316,7429.00,25,2026-04-29 10:20:16
+317,Cablu Blake LLC,Cablu,SKU-317,2935.00,11,2026-04-29 10:20:16
+318,Laptop Norton Group,Laptop,SKU-318,4292.00,83,2026-04-29 10:20:16
+319,Tastatura Walters-Phillips,Tastatura,SKU-319,7352.00,99,2026-04-29 10:20:16
+320,"Tastatura Matthews, Simmons and Fowler",Tastatura,SKU-320,813.00,95,2026-04-29 10:20:16
+321,"Cablu Bernard, Howell and Walker",Cablu,SKU-321,4490.00,18,2026-04-29 10:20:16
+322,Mouse Smith-Malone,Mouse,SKU-322,2961.00,1,2026-04-29 10:20:16
+323,"Cablu Wright, Lee and Leon",Cablu,SKU-323,8370.00,52,2026-04-29 10:20:16
+324,Cablu Solis Group,Cablu,SKU-324,8677.00,34,2026-04-29 10:20:16
+325,Tastatura Davis-Jones,Tastatura,SKU-325,7843.00,77,2026-04-29 10:20:16
+326,Cablu Vaughn-Frank,Cablu,SKU-326,7080.00,80,2026-04-29 10:20:16
+327,Tastatura Brown and Sons,Tastatura,SKU-327,4289.00,56,2026-04-29 10:20:16
+328,Mouse Mendez Ltd,Mouse,SKU-328,6121.00,75,2026-04-29 10:20:16
+329,Laptop Patterson-Stevens,Laptop,SKU-329,7153.00,33,2026-04-29 10:20:16
+330,Laptop Johnson-Riley,Laptop,SKU-330,7038.00,11,2026-04-29 10:20:16
+331,Mouse Jacobson and Sons,Mouse,SKU-331,7864.00,95,2026-04-29 10:20:16
+332,Tastatura Garza Inc,Tastatura,SKU-332,7882.00,78,2026-04-29 10:20:16
+333,Monitor Armstrong Ltd,Monitor,SKU-333,6221.00,56,2026-04-29 10:20:16
+334,Tastatura Morales and Sons,Tastatura,SKU-334,431.00,25,2026-04-29 10:20:16
+335,"Monitor King, Walker and Mcmahon",Monitor,SKU-335,2256.00,9,2026-04-29 10:20:16
+336,Monitor Williams-Kramer,Monitor,SKU-336,3825.00,24,2026-04-29 10:20:16
+337,"Tastatura Michael, Booth and Mcguire",Tastatura,SKU-337,5601.00,13,2026-04-29 10:20:16
+338,"Cablu Chavez, Dawson and Long",Cablu,SKU-338,7694.00,56,2026-04-29 10:20:16
+339,Monitor Cooley PLC,Monitor,SKU-339,2894.00,45,2026-04-29 10:20:16
+340,Mouse Jones and Sons,Mouse,SKU-340,592.00,87,2026-04-29 10:20:16
+341,"Tastatura Smith, Diaz and Rodriguez",Tastatura,SKU-341,3689.00,96,2026-04-29 10:20:16
+342,"Mouse Obrien, Clark and Morris",Mouse,SKU-342,5644.00,4,2026-04-29 10:20:16
+343,Laptop Manning and Sons,Laptop,SKU-343,6991.00,87,2026-04-29 10:20:16
+344,Cablu Smith-Morrison,Cablu,SKU-344,2273.00,88,2026-04-29 10:20:16
+345,Laptop Smith and Sons,Laptop,SKU-345,2679.00,71,2026-04-29 10:20:16
+346,Cablu Moreno Group,Cablu,SKU-346,3310.00,39,2026-04-29 10:20:16
+347,Cablu Garcia-Welch,Cablu,SKU-347,8139.00,84,2026-04-29 10:20:16
+348,"Tastatura Gallagher, Morris and Taylor",Tastatura,SKU-348,2998.00,39,2026-04-29 10:20:16
+349,Monitor Reynolds-Stokes,Monitor,SKU-349,4613.00,28,2026-04-29 10:20:16
+350,Mouse Ray and Sons,Mouse,SKU-350,8807.00,40,2026-04-29 10:20:16
+351,Tastatura Sanford Ltd,Tastatura,SKU-351,6655.00,78,2026-04-29 10:20:16
+352,Cablu Brown LLC,Cablu,SKU-352,9200.00,59,2026-04-29 10:20:16
+353,Mouse Brown LLC,Mouse,SKU-353,5468.00,84,2026-04-29 10:20:16
+354,"Mouse Baker, Stuart and Smith",Mouse,SKU-354,2546.00,67,2026-04-29 10:20:16
+355,Monitor Long-Huber,Monitor,SKU-355,1792.00,56,2026-04-29 10:20:16
+356,Monitor Diaz LLC,Monitor,SKU-356,1894.00,56,2026-04-29 10:20:16
+357,Cablu Cooper-Ward,Cablu,SKU-357,6732.00,69,2026-04-29 10:20:16
+358,Tastatura Nguyen-Whitaker,Tastatura,SKU-358,1941.00,84,2026-04-29 10:20:16
+359,Tastatura Jones-Long,Tastatura,SKU-359,2119.00,71,2026-04-29 10:20:16
+360,"Mouse Lopez, Gonzales and Jefferson",Mouse,SKU-360,8015.00,76,2026-04-29 10:20:16
+361,"Tastatura Smith, Davis and Snyder",Tastatura,SKU-361,4172.00,85,2026-04-29 10:20:16
+362,Laptop Howard-Clayton,Laptop,SKU-362,2166.00,18,2026-04-29 10:20:16
+363,"Monitor Harper, Lyons and Ortega",Monitor,SKU-363,2077.00,13,2026-04-29 10:20:16
+364,"Tastatura Castillo, Simon and Hinton",Tastatura,SKU-364,2889.00,98,2026-04-29 10:20:16
+365,"Monitor George, Huynh and Ochoa",Monitor,SKU-365,9512.00,47,2026-04-29 10:20:16
+366,Cablu Castro and Sons,Cablu,SKU-366,642.00,19,2026-04-29 10:20:16
+367,Cablu Perez LLC,Cablu,SKU-367,3678.00,1,2026-04-29 10:20:16
+368,Mouse Atkins-Johnson,Mouse,SKU-368,3078.00,61,2026-04-29 10:20:16
+369,Laptop Turner Group,Laptop,SKU-369,8832.00,54,2026-04-29 10:20:16
+370,Monitor Fowler-Barnett,Monitor,SKU-370,1866.00,69,2026-04-29 10:20:16
+371,"Tastatura Baker, Lewis and Turner",Tastatura,SKU-371,7797.00,63,2026-04-29 10:20:16
+372,Mouse Green-Bryant,Mouse,SKU-372,4990.00,90,2026-04-29 10:20:16
+373,"Tastatura Jones, Ortiz and Smith",Tastatura,SKU-373,9710.00,35,2026-04-29 10:20:16
+374,"Tastatura Dixon, White and Trevino",Tastatura,SKU-374,9430.00,80,2026-04-29 10:20:16
+375,Cablu Nelson and Sons,Cablu,SKU-375,5016.00,37,2026-04-29 10:20:16
+376,Tastatura Montes Group,Tastatura,SKU-376,8026.00,69,2026-04-29 10:20:16
+377,Mouse Brooks-Kramer,Mouse,SKU-377,6927.00,6,2026-04-29 10:20:16
+378,Monitor Snyder Inc,Monitor,SKU-378,4545.00,94,2026-04-29 10:20:16
+379,"Monitor Lynn, Vargas and Mcneil",Monitor,SKU-379,3200.00,96,2026-04-29 10:20:16
+380,Mouse Hammond Inc,Mouse,SKU-380,6100.00,69,2026-04-29 10:20:16
+381,Tastatura Wang-Parker,Tastatura,SKU-381,5786.00,22,2026-04-29 10:20:16
+382,Laptop Jimenez-Howard,Laptop,SKU-382,4502.00,70,2026-04-29 10:20:16
+383,"Mouse Erickson, Ellis and Phillips",Mouse,SKU-383,4868.00,26,2026-04-29 10:20:16
+384,Mouse Berry-Boyd,Mouse,SKU-384,4325.00,93,2026-04-29 10:20:16
+385,"Laptop Mcintyre, Rodriguez and Lynch",Laptop,SKU-385,4793.00,56,2026-04-29 10:20:16
+386,Tastatura Merritt-Lopez,Tastatura,SKU-386,9034.00,61,2026-04-29 10:20:16
+387,"Mouse Jones, Williams and Johnson",Mouse,SKU-387,844.00,50,2026-04-29 10:20:16
+388,Tastatura Duarte-Aguilar,Tastatura,SKU-388,2364.00,84,2026-04-29 10:20:16
+389,"Monitor Chase, Patterson and Curtis",Monitor,SKU-389,1850.00,77,2026-04-29 10:20:16
+390,Cablu Rodriguez-Lucero,Cablu,SKU-390,7481.00,3,2026-04-29 10:20:16
+391,Monitor Roberts Inc,Monitor,SKU-391,7004.00,9,2026-04-29 10:20:16
+392,Tastatura Evans and Sons,Tastatura,SKU-392,5974.00,42,2026-04-29 10:20:16
+393,"Laptop White, Sanders and Reyes",Laptop,SKU-393,3878.00,11,2026-04-29 10:20:16
+394,Mouse Mcdonald-Freeman,Mouse,SKU-394,8387.00,68,2026-04-29 10:20:16
+395,Laptop Simmons LLC,Laptop,SKU-395,7908.00,28,2026-04-29 10:20:16
+396,"Laptop Hughes, Miller and Lawson",Laptop,SKU-396,5895.00,84,2026-04-29 10:20:16
+397,Monitor Long-Peters,Monitor,SKU-397,9640.00,91,2026-04-29 10:20:16
+398,Mouse Ayala and Sons,Mouse,SKU-398,9354.00,36,2026-04-29 10:20:16
+399,Laptop Galloway Group,Laptop,SKU-399,2658.00,35,2026-04-29 10:20:16
+400,Laptop Austin-Ruiz,Laptop,SKU-400,976.00,27,2026-04-29 10:20:16
+401,Monitor Nguyen Group,Monitor,SKU-401,1690.00,89,2026-04-29 10:20:16
+402,"Mouse Nunez, Smith and Smith",Mouse,SKU-402,7338.00,63,2026-04-29 10:20:16
+403,Laptop Brown-Scott,Laptop,SKU-403,5099.00,34,2026-04-29 10:20:16
+404,Monitor Sullivan-Jones,Monitor,SKU-404,1319.00,80,2026-04-29 10:20:16
+405,Cablu Gill Ltd,Cablu,SKU-405,7926.00,78,2026-04-29 10:20:16
+406,Tastatura Zuniga-Mejia,Tastatura,SKU-406,8146.00,57,2026-04-29 10:20:16
+407,"Mouse Warren, Thomas and Avery",Mouse,SKU-407,5787.00,90,2026-04-29 10:20:16
+408,Mouse Nicholson-Foster,Mouse,SKU-408,7270.00,58,2026-04-29 10:20:16
+409,Cablu Buchanan Ltd,Cablu,SKU-409,440.00,99,2026-04-29 10:20:16
+410,"Mouse Juarez, Rivera and Ortiz",Mouse,SKU-410,7157.00,35,2026-04-29 10:20:16
+411,Tastatura Costa-Skinner,Tastatura,SKU-411,9750.00,48,2026-04-29 10:20:16
+412,Monitor Castillo-Bowers,Monitor,SKU-412,6404.00,27,2026-04-29 10:20:16
+413,Cablu Lee LLC,Cablu,SKU-413,2391.00,87,2026-04-29 10:20:16
+414,Tastatura Booth Inc,Tastatura,SKU-414,3220.00,0,2026-04-29 10:20:16
+415,Tastatura Griffin Inc,Tastatura,SKU-415,908.00,93,2026-04-29 10:20:16
+416,Mouse Allen and Sons,Mouse,SKU-416,7455.00,1,2026-04-29 10:20:16
+417,"Laptop Medina, Raymond and Thompson",Laptop,SKU-417,4943.00,100,2026-04-29 10:20:16
+418,Cablu Rocha PLC,Cablu,SKU-418,1997.00,86,2026-04-29 10:20:16
+419,"Laptop Pham, Lewis and Hubbard",Laptop,SKU-419,4859.00,90,2026-04-29 10:20:16
+420,Cablu Key and Sons,Cablu,SKU-420,796.00,36,2026-04-29 10:20:16
+421,Monitor Cunningham-Garcia,Monitor,SKU-421,7194.00,94,2026-04-29 10:20:16
+422,Laptop Cooper-Reynolds,Laptop,SKU-422,761.00,51,2026-04-29 10:20:16
+423,Tastatura Gamble LLC,Tastatura,SKU-423,4937.00,54,2026-04-29 10:20:16
+424,Laptop Nguyen-Bennett,Laptop,SKU-424,1991.00,87,2026-04-29 10:20:16
+425,"Tastatura Campbell, Miller and Hernandez",Tastatura,SKU-425,6759.00,58,2026-04-29 10:20:16
+426,Laptop Brown Ltd,Laptop,SKU-426,5579.00,61,2026-04-29 10:20:16
+427,Mouse Woods-Jones,Mouse,SKU-427,2507.00,64,2026-04-29 10:20:16
+428,"Laptop Larsen, Johnson and Calhoun",Laptop,SKU-428,9717.00,19,2026-04-29 10:20:16
+429,Mouse Navarro Group,Mouse,SKU-429,1750.00,85,2026-04-29 10:20:16
+430,Cablu Collins-Stewart,Cablu,SKU-430,1936.00,62,2026-04-29 10:20:16
+431,Monitor White Inc,Monitor,SKU-431,1460.00,83,2026-04-29 10:20:16
+432,Monitor Reyes Group,Monitor,SKU-432,9340.00,49,2026-04-29 10:20:16
+433,Tastatura Williams Inc,Tastatura,SKU-433,4509.00,6,2026-04-29 10:20:16
+434,"Cablu Keller, Gonzalez and Roth",Cablu,SKU-434,4614.00,43,2026-04-29 10:20:16
+435,Laptop White-Miles,Laptop,SKU-435,6977.00,22,2026-04-29 10:20:16
+436,"Monitor Church, Reynolds and Webster",Monitor,SKU-436,6592.00,76,2026-04-29 10:20:16
+437,Laptop Myers-Reed,Laptop,SKU-437,6867.00,30,2026-04-29 10:20:16
+438,Tastatura Watson Ltd,Tastatura,SKU-438,7833.00,58,2026-04-29 10:20:16
+439,Cablu Moore Group,Cablu,SKU-439,9713.00,83,2026-04-29 10:20:16
+440,Laptop Hamilton-Lewis,Laptop,SKU-440,7784.00,65,2026-04-29 10:20:16
+441,Monitor Cummings-Williams,Monitor,SKU-441,7817.00,76,2026-04-29 10:20:16
+442,Cablu Wilson Group,Cablu,SKU-442,1501.00,90,2026-04-29 10:20:16
+443,Tastatura Camacho PLC,Tastatura,SKU-443,9412.00,6,2026-04-29 10:20:16
+444,"Cablu Vance, Wilcox and Marquez",Cablu,SKU-444,2300.00,4,2026-04-29 10:20:16
+445,Mouse Neal-Nguyen,Mouse,SKU-445,8219.00,39,2026-04-29 10:20:16
+446,Cablu Mcgee PLC,Cablu,SKU-446,5923.00,6,2026-04-29 10:20:16
+447,Tastatura Baker and Sons,Tastatura,SKU-447,6667.00,23,2026-04-29 10:20:16
+448,Monitor Ryan Group,Monitor,SKU-448,6447.00,30,2026-04-29 10:20:16
+449,Mouse Hampton-Taylor,Mouse,SKU-449,393.00,12,2026-04-29 10:20:16
+450,"Laptop Roman, Bates and Swanson",Laptop,SKU-450,4500.00,75,2026-04-29 10:20:16
+451,Monitor Gonzalez-Branch,Monitor,SKU-451,8253.00,71,2026-04-29 10:20:16
+452,"Mouse Mccarty, Nelson and Thompson",Mouse,SKU-452,1095.00,36,2026-04-29 10:20:16
+453,Mouse Howe LLC,Mouse,SKU-453,886.00,20,2026-04-29 10:20:16
+454,Cablu Santana-Flores,Cablu,SKU-454,3060.00,57,2026-04-29 10:20:16
+455,Mouse Miller Inc,Mouse,SKU-455,9564.00,70,2026-04-29 10:20:16
+456,Cablu King LLC,Cablu,SKU-456,8743.00,15,2026-04-29 10:20:16
+457,"Laptop Jensen, Houston and Gilbert",Laptop,SKU-457,6167.00,8,2026-04-29 10:20:16
+458,"Mouse Navarro, Cannon and Conrad",Mouse,SKU-458,9132.00,89,2026-04-29 10:20:16
+459,Mouse Stewart PLC,Mouse,SKU-459,1459.00,99,2026-04-29 10:20:16
+460,Tastatura Lawrence-Herrera,Tastatura,SKU-460,6904.00,28,2026-04-29 10:20:16
+461,Monitor Vargas-Martin,Monitor,SKU-461,2541.00,91,2026-04-29 10:20:16
+462,Mouse Wilkerson Ltd,Mouse,SKU-462,2263.00,90,2026-04-29 10:20:16
+463,Tastatura Lynch Ltd,Tastatura,SKU-463,655.00,81,2026-04-29 10:20:16
+464,Cablu Caldwell and Sons,Cablu,SKU-464,1875.00,76,2026-04-29 10:20:16
+465,Monitor Jacobs LLC,Monitor,SKU-465,1065.00,52,2026-04-29 10:20:16
+466,"Mouse Fields, Walton and Peterson",Mouse,SKU-466,1766.00,33,2026-04-29 10:20:16
+467,Mouse Hayes PLC,Mouse,SKU-467,2003.00,21,2026-04-29 10:20:16
+468,Tastatura Dean PLC,Tastatura,SKU-468,6247.00,93,2026-04-29 10:20:16
+469,Monitor Williams and Sons,Monitor,SKU-469,8398.00,32,2026-04-29 10:20:16
+470,"Mouse Jones, Brown and Curtis",Mouse,SKU-470,1740.00,3,2026-04-29 10:20:16
+471,Tastatura Robinson LLC,Tastatura,SKU-471,4945.00,55,2026-04-29 10:20:16
+472,"Laptop Espinoza, Diaz and Deleon",Laptop,SKU-472,549.00,28,2026-04-29 10:20:16
+473,Cablu Petersen-Petersen,Cablu,SKU-473,9883.00,91,2026-04-29 10:20:16
+474,"Monitor Baird, Fletcher and Franklin",Monitor,SKU-474,4315.00,48,2026-04-29 10:20:16
+475,Mouse Bailey-Burton,Mouse,SKU-475,4045.00,81,2026-04-29 10:20:16
+476,Tastatura Rios-Smith,Tastatura,SKU-476,6146.00,41,2026-04-29 10:20:17
+477,Laptop Kent Group,Laptop,SKU-477,9607.00,90,2026-04-29 10:20:17
+478,Laptop Johnson PLC,Laptop,SKU-478,8012.00,21,2026-04-29 10:20:17
+479,Tastatura Harrison-Hernandez,Tastatura,SKU-479,5804.00,49,2026-04-29 10:20:17
+480,Tastatura Ochoa-Mcneil,Tastatura,SKU-480,9483.00,35,2026-04-29 10:20:17
+481,Tastatura Torres-Gregory,Tastatura,SKU-481,357.00,45,2026-04-29 10:20:17
+482,Laptop Cruz Ltd,Laptop,SKU-482,9514.00,75,2026-04-29 10:20:17
+483,Laptop Hamilton Group,Laptop,SKU-483,9759.00,64,2026-04-29 10:20:17
+484,Tastatura Knapp-Sims,Tastatura,SKU-484,8191.00,62,2026-04-29 10:20:17
+485,"Mouse Ramirez, Banks and Holt",Mouse,SKU-485,3346.00,46,2026-04-29 10:20:17
+486,Monitor Henry LLC,Monitor,SKU-486,9432.00,39,2026-04-29 10:20:17
+487,"Cablu Watson, Cook and Henderson",Cablu,SKU-487,2118.00,80,2026-04-29 10:20:17
+488,Cablu Smith LLC,Cablu,SKU-488,3068.00,79,2026-04-29 10:20:17
+489,"Cablu Wallace, Bailey and Williams",Cablu,SKU-489,6733.00,54,2026-04-29 10:20:17
+490,Laptop Reed LLC,Laptop,SKU-490,2119.00,12,2026-04-29 10:20:17
+491,Mouse Phillips PLC,Mouse,SKU-491,3643.00,36,2026-04-29 10:20:17
+492,Cablu Jimenez PLC,Cablu,SKU-492,2393.00,99,2026-04-29 10:20:17
+493,"Laptop Cruz, Andrews and Branch",Laptop,SKU-493,2893.00,40,2026-04-29 10:20:17
+494,"Laptop Vargas, Schmidt and Owens",Laptop,SKU-494,7521.00,57,2026-04-29 10:20:17
+495,Cablu Montgomery and Sons,Cablu,SKU-495,4771.00,4,2026-04-29 10:20:17
+496,Laptop Garrison-Small,Laptop,SKU-496,3852.00,5,2026-04-29 10:20:17
+497,Laptop Ortiz Group,Laptop,SKU-497,2742.00,38,2026-04-29 10:20:17
+498,Laptop Crawford LLC,Laptop,SKU-498,1121.00,64,2026-04-29 10:20:17
+499,"Cablu Levy, Chapman and Clark",Cablu,SKU-499,810.00,66,2026-04-29 10:20:17
+500,Monitor Guerrero Ltd,Monitor,SKU-500,6946.00,60,2026-04-29 10:20:17
+503,Tastatura Hyperx,Tastaturi,001,350.00,9,2026-05-04 15:23:52

@@ -1,0 +1,12 @@
+[
+  {
+    "move_type": "OUT",
+    "moves_count": 501,
+    "avg_qty": 5.5389
+  },
+  {
+    "move_type": "IN",
+    "moves_count": 502,
+    "avg_qty": 110.9283
+  }
+]

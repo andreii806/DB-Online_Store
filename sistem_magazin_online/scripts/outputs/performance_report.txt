@@ -1,0 +1,9 @@
+=== ANALIZA PERFORMANTA SQL (BEFORE vs AFTER) ===
+
+Rulari per query: 50
+
+Query: Users by username (BEFORE) -> AVG: 2.56 ms
+Query: Products by name (BEFORE) -> AVG: 2.69 ms
+------------------------------
+Query: Users by username (AFTER) -> AVG: 2.42 ms | Improvement: 5.4%
+Query: Products by name (AFTER) -> AVG: 2.65 ms | Improvement: 1.4%

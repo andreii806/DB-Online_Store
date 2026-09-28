@@ -1,0 +1,1330 @@
+{
+  "min_stock": 99,
+  "results": [
+    {
+      "sku": "SKU-041",
+      "name": "Monitor Foster, Kim and Waters",
+      "stock": 198
+    },
+    {
+      "sku": "SKU-110",
+      "name": "Mouse Smith PLC",
+      "stock": 198
+    },
+    {
+      "sku": "SKU-106",
+      "name": "Mouse Boone, Reeves and Smith",
+      "stock": 198
+    },
+    {
+      "sku": "SKU-036",
+      "name": "Mouse Arellano Inc",
+      "stock": 196
+    },
+    {
+      "sku": "SKU-345",
+      "name": "Laptop Smith and Sons",
+      "stock": 196
+    },
+    {
+      "sku": "SKU-251",
+      "name": "Cablu Hanson Ltd",
+      "stock": 193
+    },
+    {
+      "sku": "SKU-091",
+      "name": "Tastatura Armstrong, Carter and Long",
+      "stock": 193
+    },
+    {
+      "sku": "SKU-474",
+      "name": "Monitor Baird, Fletcher and Franklin",
+      "stock": 193
+    },
+    {
+      "sku": "SKU-342",
+      "name": "Mouse Obrien, Clark and Morris",
+      "stock": 192
+    },
+    {
+      "sku": "SKU-003",
+      "name": "Cablu Edwards and Sons",
+      "stock": 192
+    },
+    {
+      "sku": "SKU-266",
+      "name": "Cablu Cortez PLC",
+      "stock": 192
+    },
+    {
+      "sku": "SKU-012",
+      "name": "Laptop Curtis, Sims and Lowe",
+      "stock": 191
+    },
+    {
+      "sku": "SKU-219",
+      "name": "Cablu Walton, Harper and Francis",
+      "stock": 190
+    },
+    {
+      "sku": "SKU-309",
+      "name": "Laptop Smith, Johnson and Hammond",
+      "stock": 190
+    },
+    {
+      "sku": "SKU-125",
+      "name": "Mouse Williams-Wise",
+      "stock": 189
+    },
+    {
+      "sku": "SKU-212",
+      "name": "Laptop Perez and Sons",
+      "stock": 189
+    },
+    {
+      "sku": "SKU-094",
+      "name": "Tastatura Smith, Robertson and Hernandez",
+      "stock": 189
+    },
+    {
+      "sku": "SKU-460",
+      "name": "Tastatura Lawrence-Herrera",
+      "stock": 189
+    },
+    {
+      "sku": "SKU-051",
+      "name": "Monitor Bell LLC",
+      "stock": 189
+    },
+    {
+      "sku": "SKU-077",
+      "name": "Monitor Velazquez, Sparks and Espinoza",
+      "stock": 188
+    },
+    {
+      "sku": "SKU-174",
+      "name": "Tastatura Nelson-Jones",
+      "stock": 188
+    },
+    {
+      "sku": "SKU-488",
+      "name": "Cablu Smith LLC",
+      "stock": 188
+    },
+    {
+      "sku": "SKU-260",
+      "name": "Laptop Murphy, Myers and Fuller",
+      "stock": 187
+    },
+    {
+      "sku": "SKU-272",
+      "name": "Laptop Lewis Ltd",
+      "stock": 187
+    },
+    {
+      "sku": "SKU-126",
+      "name": "Tastatura Ray, Ramirez and Boyd",
+      "stock": 187
+    },
+    {
+      "sku": "SKU-457",
+      "name": "Laptop Jensen, Houston and Gilbert",
+      "stock": 186
+    },
+    {
+      "sku": "SKU-328",
+      "name": "Mouse Mendez Ltd",
+      "stock": 186
+    },
+    {
+      "sku": "SKU-367",
+      "name": "Cablu Perez LLC",
+      "stock": 186
+    },
+    {
+      "sku": "SKU-045",
+      "name": "Mouse Mitchell-Lopez",
+      "stock": 184
+    },
+    {
+      "sku": "SKU-189",
+      "name": "Cablu Kennedy-Li",
+      "stock": 184
+    },
+    {
+      "sku": "SKU-153",
+      "name": "Tastatura Mullins-Smith",
+      "stock": 184
+    },
+    {
+      "sku": "SKU-293",
+      "name": "Monitor Daniels, Smith and Jefferson",
+      "stock": 184
+    },
+    {
+      "sku": "SKU-116",
+      "name": "Mouse Ball, Ashley and Zimmerman",
+      "stock": 183
+    },
+    {
+      "sku": "SKU-384",
+      "name": "Mouse Berry-Boyd",
+      "stock": 183
+    },
+    {
+      "sku": "SKU-063",
+      "name": "Mouse Warren, Peterson and Schmidt",
+      "stock": 183
+    },
+    {
+      "sku": "SKU-494",
+      "name": "Laptop Vargas, Schmidt and Owens",
+      "stock": 182
+    },
+    {
+      "sku": "SKU-078",
+      "name": "Tastatura Beasley Ltd",
+      "stock": 182
+    },
+    {
+      "sku": "SKU-102",
+      "name": "Mouse Jones Group",
+      "stock": 181
+    },
+    {
+      "sku": "SKU-223",
+      "name": "Monitor Howell, Gray and Drake",
+      "stock": 181
+    },
+    {
+      "sku": "SKU-438",
+      "name": "Tastatura Watson Ltd",
+      "stock": 180
+    },
+    {
+      "sku": "SKU-242",
+      "name": "Mouse Fuentes-Mckinney",
+      "stock": 180
+    },
+    {
+      "sku": "SKU-496",
+      "name": "Laptop Garrison-Small",
+      "stock": 180
+    },
+    {
+      "sku": "SKU-215",
+      "name": "Laptop Gordon, Davis and Campbell",
+      "stock": 180
+    },
+    {
+      "sku": "SKU-430",
+      "name": "Cablu Collins-Stewart",
+      "stock": 180
+    },
+    {
+      "sku": "SKU-259",
+      "name": "Laptop Glass-Richardson",
+      "stock": 180
+    },
+    {
+      "sku": "SKU-205",
+      "name": "Cablu Rogers-Foster",
+      "stock": 179
+    },
+    {
+      "sku": "SKU-096",
+      "name": "Mouse Brown-Cooley",
+      "stock": 178
+    },
+    {
+      "sku": "SKU-314",
+      "name": "Monitor Zuniga-Kidd",
+      "stock": 178
+    },
+    {
+      "sku": "SKU-138",
+      "name": "Tastatura Perez LLC",
+      "stock": 178
+    },
+    {
+      "sku": "SKU-301",
+      "name": "Mouse Wade-Hobbs",
+      "stock": 177
+    },
+    {
+      "sku": "SKU-354",
+      "name": "Mouse Baker, Stuart and Smith",
+      "stock": 177
+    },
+    {
+      "sku": "SKU-249",
+      "name": "Cablu Sutton-Stanley",
+      "stock": 177
+    },
+    {
+      "sku": "SKU-263",
+      "name": "Mouse Ingram-Keller",
+      "stock": 177
+    },
+    {
+      "sku": "SKU-086",
+      "name": "Cablu Lawrence-Lopez",
+      "stock": 176
+    },
+    {
+      "sku": "SKU-386",
+      "name": "Tastatura Merritt-Lopez",
+      "stock": 176
+    },
+    {
+      "sku": "SKU-037",
+      "name": "Laptop Herrera-Bennett",
+      "stock": 176
+    },
+    {
+      "sku": "SKU-200",
+      "name": "Monitor Mack, Crosby and Rodriguez",
+      "stock": 176
+    },
+    {
+      "sku": "SKU-143",
+      "name": "Mouse Dunn and Sons",
+      "stock": 176
+    },
+    {
+      "sku": "SKU-196",
+      "name": "Laptop Williams Group",
+      "stock": 175
+    },
+    {
+      "sku": "SKU-476",
+      "name": "Tastatura Rios-Smith",
+      "stock": 175
+    },
+    {
+      "sku": "SKU-360",
+      "name": "Mouse Lopez, Gonzales and Jefferson",
+      "stock": 175
+    },
+    {
+      "sku": "SKU-057",
+      "name": "Monitor Nelson-Ferguson",
+      "stock": 174
+    },
+    {
+      "sku": "SKU-480",
+      "name": "Tastatura Ochoa-Mcneil",
+      "stock": 174
+    },
+    {
+      "sku": "SKU-270",
+      "name": "Tastatura George PLC",
+      "stock": 174
+    },
+    {
+      "sku": "SKU-348",
+      "name": "Tastatura Gallagher, Morris and Taylor",
+      "stock": 174
+    },
+    {
+      "sku": "SKU-211",
+      "name": "Monitor Hanson-Evans",
+      "stock": 174
+    },
+    {
+      "sku": "SKU-411",
+      "name": "Tastatura Costa-Skinner",
+      "stock": 173
+    },
+    {
+      "sku": "SKU-185",
+      "name": "Mouse Day-Quinn",
+      "stock": 173
+    },
+    {
+      "sku": "SKU-173",
+      "name": "Laptop Davis, Ramirez and Houston",
+      "stock": 172
+    },
+    {
+      "sku": "SKU-318",
+      "name": "Laptop Norton Group",
+      "stock": 172
+    },
+    {
+      "sku": "SKU-280",
+      "name": "Mouse Haynes PLC",
+      "stock": 171
+    },
+    {
+      "sku": "SKU-002",
+      "name": "Monitor Bradley-Gilbert",
+      "stock": 170
+    },
+    {
+      "sku": "SKU-227",
+      "name": "Mouse Mcneil-Rodriguez",
+      "stock": 170
+    },
+    {
+      "sku": "SKU-090",
+      "name": "Mouse Jones, Bush and Herring",
+      "stock": 170
+    },
+    {
+      "sku": "SKU-120",
+      "name": "Mouse Li-Beard",
+      "stock": 170
+    },
+    {
+      "sku": "SKU-408",
+      "name": "Mouse Nicholson-Foster",
+      "stock": 170
+    },
+    {
+      "sku": "SKU-004",
+      "name": "Mouse Clark, Rodriguez and Stephens",
+      "stock": 169
+    },
+    {
+      "sku": "SKU-392",
+      "name": "Tastatura Evans and Sons",
+      "stock": 169
+    },
+    {
+      "sku": "SKU-262",
+      "name": "Tastatura Garcia-Davis",
+      "stock": 168
+    },
+    {
+      "sku": "SKU-441",
+      "name": "Monitor Cummings-Williams",
+      "stock": 168
+    },
+    {
+      "sku": "SKU-366",
+      "name": "Cablu Castro and Sons",
+      "stock": 168
+    },
+    {
+      "sku": "SKU-081",
+      "name": "Cablu Alvarez, Rollins and Downs",
+      "stock": 168
+    },
+    {
+      "sku": "SKU-303",
+      "name": "Monitor Robbins and Sons",
+      "stock": 168
+    },
+    {
+      "sku": "SKU-388",
+      "name": "Tastatura Duarte-Aguilar",
+      "stock": 167
+    },
+    {
+      "sku": "SKU-123",
+      "name": "Mouse Todd, Richardson and Whitney",
+      "stock": 166
+    },
+    {
+      "sku": "SKU-298",
+      "name": "Mouse Anderson Group",
+      "stock": 166
+    },
+    {
+      "sku": "SKU-175",
+      "name": "Monitor Carr Group",
+      "stock": 166
+    },
+    {
+      "sku": "SKU-320",
+      "name": "Tastatura Matthews, Simmons and Fowler",
+      "stock": 165
+    },
+    {
+      "sku": "SKU-447",
+      "name": "Tastatura Baker and Sons",
+      "stock": 165
+    },
+    {
+      "sku": "SKU-269",
+      "name": "Monitor Mcclain, Wong and Cervantes",
+      "stock": 164
+    },
+    {
+      "sku": "SKU-336",
+      "name": "Monitor Williams-Kramer",
+      "stock": 164
+    },
+    {
+      "sku": "SKU-375",
+      "name": "Cablu Nelson and Sons",
+      "stock": 164
+    },
+    {
+      "sku": "SKU-295",
+      "name": "Tastatura Walker, Henry and Browning",
+      "stock": 164
+    },
+    {
+      "sku": "SKU-188",
+      "name": "Laptop Williams Ltd",
+      "stock": 164
+    },
+    {
+      "sku": "SKU-451",
+      "name": "Monitor Gonzalez-Branch",
+      "stock": 163
+    },
+    {
+      "sku": "SKU-410",
+      "name": "Mouse Juarez, Rivera and Ortiz",
+      "stock": 163
+    },
+    {
+      "sku": "SKU-207",
+      "name": "Tastatura Cooper, Warren and Gregory",
+      "stock": 163
+    },
+    {
+      "sku": "SKU-294",
+      "name": "Laptop Dixon PLC",
+      "stock": 162
+    },
+    {
+      "sku": "SKU-065",
+      "name": "Mouse Price, Holloway and Johnson",
+      "stock": 162
+    },
+    {
+      "sku": "SKU-398",
+      "name": "Mouse Ayala and Sons",
+      "stock": 161
+    },
+    {
+      "sku": "SKU-221",
+      "name": "Laptop Sims-Osborne",
+      "stock": 160
+    },
+    {
+      "sku": "SKU-248",
+      "name": "Cablu Shaw, Zavala and Werner",
+      "stock": 160
+    },
+    {
+      "sku": "SKU-008",
+      "name": "Laptop Anderson-Schroeder",
+      "stock": 158
+    },
+    {
+      "sku": "SKU-184",
+      "name": "Monitor Webster, Johns and Smith",
+      "stock": 158
+    },
+    {
+      "sku": "SKU-166",
+      "name": "Tastatura Miller, Foster and Smith",
+      "stock": 157
+    },
+    {
+      "sku": "SKU-450",
+      "name": "Laptop Roman, Bates and Swanson",
+      "stock": 157
+    },
+    {
+      "sku": "SKU-017",
+      "name": "Laptop Hood, Stephens and Church",
+      "stock": 157
+    },
+    {
+      "sku": "SKU-040",
+      "name": "Laptop Taylor-King",
+      "stock": 157
+    },
+    {
+      "sku": "SKU-130",
+      "name": "Cablu Hoffman PLC",
+      "stock": 156
+    },
+    {
+      "sku": "SKU-426",
+      "name": "Laptop Brown Ltd",
+      "stock": 156
+    },
+    {
+      "sku": "SKU-312",
+      "name": "Tastatura Gates, Juarez and Owens",
+      "stock": 156
+    },
+    {
+      "sku": "SKU-440",
+      "name": "Laptop Hamilton-Lewis",
+      "stock": 156
+    },
+    {
+      "sku": "SKU-274",
+      "name": "Monitor Carrillo LLC",
+      "stock": 155
+    },
+    {
+      "sku": "SKU-071",
+      "name": "Laptop Rowe, Black and Carroll",
+      "stock": 155
+    },
+    {
+      "sku": "SKU-357",
+      "name": "Cablu Cooper-Ward",
+      "stock": 155
+    },
+    {
+      "sku": "SKU-310",
+      "name": "Laptop Wilson and Sons",
+      "stock": 154
+    },
+    {
+      "sku": "SKU-095",
+      "name": "Tastatura Hunter Group",
+      "stock": 154
+    },
+    {
+      "sku": "SKU-399",
+      "name": "Laptop Galloway Group",
+      "stock": 154
+    },
+    {
+      "sku": "SKU-108",
+      "name": "Mouse Lewis Ltd",
+      "stock": 153
+    },
+    {
+      "sku": "SKU-396",
+      "name": "Laptop Hughes, Miller and Lawson",
+      "stock": 153
+    },
+    {
+      "sku": "SKU-419",
+      "name": "Laptop Pham, Lewis and Hubbard",
+      "stock": 153
+    },
+    {
+      "sku": "SKU-378",
+      "name": "Monitor Snyder Inc",
+      "stock": 153
+    },
+    {
+      "sku": "SKU-043",
+      "name": "Cablu Holt PLC",
+      "stock": 152
+    },
+    {
+      "sku": "SKU-395",
+      "name": "Laptop Simmons LLC",
+      "stock": 152
+    },
+    {
+      "sku": "SKU-201",
+      "name": "Mouse Clarke Ltd",
+      "stock": 152
+    },
+    {
+      "sku": "SKU-448",
+      "name": "Monitor Ryan Group",
+      "stock": 152
+    },
+    {
+      "sku": "SKU-192",
+      "name": "Laptop Moore, Knight and Mcconnell",
+      "stock": 152
+    },
+    {
+      "sku": "SKU-391",
+      "name": "Monitor Roberts Inc",
+      "stock": 152
+    },
+    {
+      "sku": "SKU-334",
+      "name": "Tastatura Morales and Sons",
+      "stock": 152
+    },
+    {
+      "sku": "SKU-405",
+      "name": "Cablu Gill Ltd",
+      "stock": 152
+    },
+    {
+      "sku": "SKU-273",
+      "name": "Tastatura Bennett, Aguirre and Martinez",
+      "stock": 152
+    },
+    {
+      "sku": "SKU-238",
+      "name": "Mouse Phillips, Johnson and Gutierrez",
+      "stock": 151
+    },
+    {
+      "sku": "SKU-287",
+      "name": "Monitor Rios-Jones",
+      "stock": 151
+    },
+    {
+      "sku": "SKU-491",
+      "name": "Mouse Phillips PLC",
+      "stock": 149
+    },
+    {
+      "sku": "SKU-236",
+      "name": "Mouse Jones Ltd",
+      "stock": 149
+    },
+    {
+      "sku": "SKU-437",
+      "name": "Laptop Myers-Reed",
+      "stock": 148
+    },
+    {
+      "sku": "SKU-115",
+      "name": "Tastatura Ward-Foster",
+      "stock": 148
+    },
+    {
+      "sku": "SKU-322",
+      "name": "Mouse Smith-Malone",
+      "stock": 147
+    },
+    {
+      "sku": "SKU-009",
+      "name": "Laptop Cantu, Fleming and Miller",
+      "stock": 147
+    },
+    {
+      "sku": "SKU-220",
+      "name": "Tastatura Avery-Smith",
+      "stock": 147
+    },
+    {
+      "sku": "SKU-172",
+      "name": "Cablu Williams, Forbes and Case",
+      "stock": 147
+    },
+    {
+      "sku": "SKU-371",
+      "name": "Tastatura Baker, Lewis and Turner",
+      "stock": 147
+    },
+    {
+      "sku": "SKU-103",
+      "name": "Laptop Henry Ltd",
+      "stock": 146
+    },
+    {
+      "sku": "SKU-326",
+      "name": "Cablu Vaughn-Frank",
+      "stock": 145
+    },
+    {
+      "sku": "SKU-059",
+      "name": "Cablu Barr, Harper and Bush",
+      "stock": 145
+    },
+    {
+      "sku": "SKU-046",
+      "name": "Monitor Perry Inc",
+      "stock": 145
+    },
+    {
+      "sku": "SKU-431",
+      "name": "Monitor White Inc",
+      "stock": 145
+    },
+    {
+      "sku": "SKU-074",
+      "name": "Mouse Griffin PLC",
+      "stock": 144
+    },
+    {
+      "sku": "SKU-454",
+      "name": "Cablu Santana-Flores",
+      "stock": 143
+    },
+    {
+      "sku": "SKU-109",
+      "name": "Mouse Ramos-Jacobs",
+      "stock": 143
+    },
+    {
+      "sku": "SKU-265",
+      "name": "Cablu Ponce LLC",
+      "stock": 143
+    },
+    {
+      "sku": "SKU-297",
+      "name": "Tastatura Branch Ltd",
+      "stock": 143
+    },
+    {
+      "sku": "SKU-240",
+      "name": "Tastatura Dawson, Young and Moore",
+      "stock": 143
+    },
+    {
+      "sku": "SKU-271",
+      "name": "Cablu Jones, Dixon and Gibbs",
+      "stock": 142
+    },
+    {
+      "sku": "SKU-315",
+      "name": "Mouse Rodriguez, Lee and Anderson",
+      "stock": 141
+    },
+    {
+      "sku": "SKU-027",
+      "name": "Laptop Jenkins-Garcia",
+      "stock": 141
+    },
+    {
+      "sku": "SKU-424",
+      "name": "Laptop Nguyen-Bennett",
+      "stock": 141
+    },
+    {
+      "sku": "SKU-247",
+      "name": "Laptop Rogers, Hernandez and Turner",
+      "stock": 140
+    },
+    {
+      "sku": "SKU-483",
+      "name": "Laptop Hamilton Group",
+      "stock": 140
+    },
+    {
+      "sku": "SKU-497",
+      "name": "Laptop Ortiz Group",
+      "stock": 140
+    },
+    {
+      "sku": "SKU-400",
+      "name": "Laptop Austin-Ruiz",
+      "stock": 139
+    },
+    {
+      "sku": "SKU-485",
+      "name": "Mouse Ramirez, Banks and Holt",
+      "stock": 139
+    },
+    {
+      "sku": "SKU-113",
+      "name": "Tastatura Warner, Johnston and Kim",
+      "stock": 139
+    },
+    {
+      "sku": "SKU-337",
+      "name": "Tastatura Michael, Booth and Mcguire",
+      "stock": 139
+    },
+    {
+      "sku": "SKU-477",
+      "name": "Laptop Kent Group",
+      "stock": 138
+    },
+    {
+      "sku": "SKU-068",
+      "name": "Monitor Solomon-Vega",
+      "stock": 138
+    },
+    {
+      "sku": "SKU-346",
+      "name": "Cablu Moreno Group",
+      "stock": 138
+    },
+    {
+      "sku": "SKU-083",
+      "name": "Laptop Reynolds Ltd",
+      "stock": 136
+    },
+    {
+      "sku": "SKU-407",
+      "name": "Mouse Warren, Thomas and Avery",
+      "stock": 135
+    },
+    {
+      "sku": "SKU-351",
+      "name": "Tastatura Sanford Ltd",
+      "stock": 135
+    },
+    {
+      "sku": "SKU-459",
+      "name": "Mouse Stewart PLC",
+      "stock": 134
+    },
+    {
+      "sku": "SKU-016",
+      "name": "Cablu White, Pratt and Chavez",
+      "stock": 134
+    },
+    {
+      "sku": "SKU-327",
+      "name": "Tastatura Brown and Sons",
+      "stock": 134
+    },
+    {
+      "sku": "SKU-355",
+      "name": "Monitor Long-Huber",
+      "stock": 134
+    },
+    {
+      "sku": "SKU-299",
+      "name": "Cablu Phillips Inc",
+      "stock": 133
+    },
+    {
+      "sku": "SKU-217",
+      "name": "Cablu Garcia, Acevedo and Foster",
+      "stock": 133
+    },
+    {
+      "sku": "SKU-137",
+      "name": "Monitor Butler, Sampson and Duncan",
+      "stock": 133
+    },
+    {
+      "sku": "SKU-160",
+      "name": "Tastatura Brewer Inc",
+      "stock": 133
+    },
+    {
+      "sku": "SKU-435",
+      "name": "Laptop White-Miles",
+      "stock": 133
+    },
+    {
+      "sku": "SKU-442",
+      "name": "Cablu Wilson Group",
+      "stock": 133
+    },
+    {
+      "sku": "SKU-026",
+      "name": "Mouse Escobar and Sons",
+      "stock": 132
+    },
+    {
+      "sku": "SKU-481",
+      "name": "Tastatura Torres-Gregory",
+      "stock": 132
+    },
+    {
+      "sku": "SKU-064",
+      "name": "Tastatura Thomas-Chapman",
+      "stock": 131
+    },
+    {
+      "sku": "SKU-218",
+      "name": "Monitor Collins, Collins and Barnes",
+      "stock": 131
+    },
+    {
+      "sku": "SKU-330",
+      "name": "Laptop Johnson-Riley",
+      "stock": 131
+    },
+    {
+      "sku": "SKU-210",
+      "name": "Monitor Glover PLC",
+      "stock": 130
+    },
+    {
+      "sku": "SKU-393",
+      "name": "Laptop White, Sanders and Reyes",
+      "stock": 130
+    },
+    {
+      "sku": "SKU-394",
+      "name": "Mouse Mcdonald-Freeman",
+      "stock": 130
+    },
+    {
+      "sku": "SKU-061",
+      "name": "Cablu Webster-Petty",
+      "stock": 128
+    },
+    {
+      "sku": "SKU-350",
+      "name": "Mouse Ray and Sons",
+      "stock": 128
+    },
+    {
+      "sku": "SKU-080",
+      "name": "Mouse Wright-Cohen",
+      "stock": 127
+    },
+    {
+      "sku": "SKU-389",
+      "name": "Monitor Chase, Patterson and Curtis",
+      "stock": 127
+    },
+    {
+      "sku": "SKU-161",
+      "name": "Cablu Riddle, Meyer and Campbell",
+      "stock": 127
+    },
+    {
+      "sku": "SKU-456",
+      "name": "Cablu King LLC",
+      "stock": 127
+    },
+    {
+      "sku": "SKU-127",
+      "name": "Cablu Frazier Ltd",
+      "stock": 127
+    },
+    {
+      "sku": "SKU-180",
+      "name": "Mouse Cooper, Carlson and Edwards",
+      "stock": 126
+    },
+    {
+      "sku": "SKU-379",
+      "name": "Monitor Lynn, Vargas and Mcneil",
+      "stock": 126
+    },
+    {
+      "sku": "SKU-197",
+      "name": "Mouse Brown, Green and Nelson",
+      "stock": 126
+    },
+    {
+      "sku": "SKU-187",
+      "name": "Cablu Reeves, Bradley and Mcdaniel",
+      "stock": 124
+    },
+    {
+      "sku": "SKU-325",
+      "name": "Tastatura Davis-Jones",
+      "stock": 124
+    },
+    {
+      "sku": "SKU-275",
+      "name": "Monitor Nguyen PLC",
+      "stock": 124
+    },
+    {
+      "sku": "SKU-191",
+      "name": "Laptop Campbell Group",
+      "stock": 124
+    },
+    {
+      "sku": "SKU-232",
+      "name": "Tastatura Owen-Schmitt",
+      "stock": 123
+    },
+    {
+      "sku": "SKU-141",
+      "name": "Tastatura Lewis PLC",
+      "stock": 122
+    },
+    {
+      "sku": "SKU-042",
+      "name": "Laptop Martinez-Little",
+      "stock": 122
+    },
+    {
+      "sku": "SKU-406",
+      "name": "Tastatura Zuniga-Mejia",
+      "stock": 121
+    },
+    {
+      "sku": "SKU-452",
+      "name": "Mouse Mccarty, Nelson and Thompson",
+      "stock": 121
+    },
+    {
+      "sku": "SKU-165",
+      "name": "Tastatura Crawford and Sons",
+      "stock": 121
+    },
+    {
+      "sku": "SKU-181",
+      "name": "Mouse Smith and Sons",
+      "stock": 121
+    },
+    {
+      "sku": "SKU-305",
+      "name": "Tastatura Hansen-Cervantes",
+      "stock": 121
+    },
+    {
+      "sku": "SKU-133",
+      "name": "Cablu Crawford Ltd",
+      "stock": 120
+    },
+    {
+      "sku": "SKU-193",
+      "name": "Tastatura Berry, Curtis and Martinez",
+      "stock": 120
+    },
+    {
+      "sku": "SKU-487",
+      "name": "Cablu Watson, Cook and Henderson",
+      "stock": 119
+    },
+    {
+      "sku": "SKU-206",
+      "name": "Cablu Walter, Medina and Hamilton",
+      "stock": 118
+    },
+    {
+      "sku": "SKU-147",
+      "name": "Tastatura Keller, Navarro and Pittman",
+      "stock": 118
+    },
+    {
+      "sku": "SKU-163",
+      "name": "Mouse Mercer, Woods and Burke",
+      "stock": 118
+    },
+    {
+      "sku": "SKU-433",
+      "name": "Tastatura Williams Inc",
+      "stock": 118
+    },
+    {
+      "sku": "SKU-158",
+      "name": "Tastatura Spears-Turner",
+      "stock": 117
+    },
+    {
+      "sku": "SKU-186",
+      "name": "Tastatura Gay LLC",
+      "stock": 117
+    },
+    {
+      "sku": "SKU-038",
+      "name": "Monitor York Group",
+      "stock": 116
+    },
+    {
+      "sku": "SKU-034",
+      "name": "Monitor Gamble, White and Bush",
+      "stock": 116
+    },
+    {
+      "sku": "SKU-252",
+      "name": "Cablu Simon, Brown and Strickland",
+      "stock": 116
+    },
+    {
+      "sku": "SKU-058",
+      "name": "Tastatura Kelly, Griffith and Elliott",
+      "stock": 116
+    },
+    {
+      "sku": "SKU-359",
+      "name": "Tastatura Jones-Long",
+      "stock": 115
+    },
+    {
+      "sku": "SKU-387",
+      "name": "Mouse Jones, Williams and Johnson",
+      "stock": 115
+    },
+    {
+      "sku": "SKU-257",
+      "name": "Tastatura Sullivan LLC",
+      "stock": 115
+    },
+    {
+      "sku": "SKU-264",
+      "name": "Cablu Kline Inc",
+      "stock": 115
+    },
+    {
+      "sku": "SKU-073",
+      "name": "Mouse Barnes-Ramirez",
+      "stock": 114
+    },
+    {
+      "sku": "SKU-333",
+      "name": "Monitor Armstrong Ltd",
+      "stock": 113
+    },
+    {
+      "sku": "SKU-112",
+      "name": "Cablu Griffin, Moore and Zuniga",
+      "stock": 112
+    },
+    {
+      "sku": "SKU-246",
+      "name": "Tastatura Watts PLC",
+      "stock": 111
+    },
+    {
+      "sku": "SKU-445",
+      "name": "Mouse Neal-Nguyen",
+      "stock": 111
+    },
+    {
+      "sku": "SKU-258",
+      "name": "Laptop Porter, Anderson and Sharp",
+      "stock": 111
+    },
+    {
+      "sku": "SKU-199",
+      "name": "Cablu Norman LLC",
+      "stock": 111
+    },
+    {
+      "sku": "SKU-020",
+      "name": "Cablu Boyd Inc",
+      "stock": 110
+    },
+    {
+      "sku": "SKU-413",
+      "name": "Cablu Lee LLC",
+      "stock": 109
+    },
+    {
+      "sku": "SKU-311",
+      "name": "Tastatura Williams, Castillo and Pearson",
+      "stock": 109
+    },
+    {
+      "sku": "SKU-087",
+      "name": "Laptop Summers-Newton",
+      "stock": 109
+    },
+    {
+      "sku": "SKU-261",
+      "name": "Mouse Watson, Cox and Taylor",
+      "stock": 109
+    },
+    {
+      "sku": "SKU-097",
+      "name": "Cablu Landry-Oneal",
+      "stock": 109
+    },
+    {
+      "sku": "SKU-072",
+      "name": "Mouse White, Bell and Ramirez",
+      "stock": 109
+    },
+    {
+      "sku": "SKU-082",
+      "name": "Laptop Kidd PLC",
+      "stock": 108
+    },
+    {
+      "sku": "SKU-427",
+      "name": "Mouse Woods-Jones",
+      "stock": 107
+    },
+    {
+      "sku": "SKU-443",
+      "name": "Tastatura Camacho PLC",
+      "stock": 107
+    },
+    {
+      "sku": "SKU-075",
+      "name": "Laptop Tran, Griffin and Patton",
+      "stock": 107
+    },
+    {
+      "sku": "SKU-498",
+      "name": "Laptop Crawford LLC",
+      "stock": 107
+    },
+    {
+      "sku": "SKU-229",
+      "name": "Monitor Meyers Group",
+      "stock": 107
+    },
+    {
+      "sku": "SKU-105",
+      "name": "Mouse Taylor, Matthews and Taylor",
+      "stock": 106
+    },
+    {
+      "sku": "SKU-323",
+      "name": "Cablu Wright, Lee and Leon",
+      "stock": 106
+    },
+    {
+      "sku": "SKU-154",
+      "name": "Mouse Gonzalez LLC",
+      "stock": 106
+    },
+    {
+      "sku": "SKU-001",
+      "name": "Tastatura Nelson LLC",
+      "stock": 106
+    },
+    {
+      "sku": "SKU-292",
+      "name": "Cablu Logan PLC",
+      "stock": 105
+    },
+    {
+      "sku": "SKU-403",
+      "name": "Laptop Brown-Scott",
+      "stock": 105
+    },
+    {
+      "sku": "SKU-279",
+      "name": "Tastatura Ryan-Brown",
+      "stock": 104
+    },
+    {
+      "sku": "SKU-245",
+      "name": "Cablu Smith-Craig",
+      "stock": 103
+    },
+    {
+      "sku": "SKU-024",
+      "name": "Cablu King, Mcguire and Kennedy",
+      "stock": 103
+    },
+    {
+      "sku": "SKU-356",
+      "name": "Monitor Diaz LLC",
+      "stock": 102
+    },
+    {
+      "sku": "SKU-307",
+      "name": "Mouse Garcia and Sons",
+      "stock": 102
+    },
+    {
+      "sku": "SKU-119",
+      "name": "Laptop Mullins, Moore and Hernandez",
+      "stock": 101
+    },
+    {
+      "sku": "SKU-243",
+      "name": "Laptop Todd-Ritter",
+      "stock": 101
+    },
+    {
+      "sku": "SKU-340",
+      "name": "Mouse Jones and Sons",
+      "stock": 100
+    },
+    {
+      "sku": "SKU-475",
+      "name": "Mouse Bailey-Burton",
+      "stock": 100
+    },
+    {
+      "sku": "SKU-470",
+      "name": "Mouse Jones, Brown and Curtis",
+      "stock": 99
+    },
+    {
+      "sku": "SKU-285",
+      "name": "Mouse Phillips Inc",
+      "stock": 99
+    },
+    {
+      "sku": "SKU-213",
+      "name": "Cablu Barnett, Sweeney and Mendoza",
+      "stock": 99
+    }
+  ]
+}
